@@ -16,5 +16,5 @@ pso-optimal-control/
 ├── notebook/
 │   └── pso_optimal_control.ipynb
 ├── docs/
-│   └── pso_optimal_control_paper.pdf
+│   └── PSO_optimal_control.pdf
 └── README.md
